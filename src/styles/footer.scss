@@ -1,0 +1,38 @@
+.bose-footer{
+    background-color: #191919;
+    padding: 20px 30px;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-flow: row;
+    -webkit-flex-flow: row;
+    flex-flow: row;
+    font-weight: 400;
+    font-style: normal;
+    font-size: .8rem;
+    line-height: 1.5em;
+    position: fixed;
+    bottom: 0px;
+    right:0;
+    width: 100%;
+
+    .policyTerms{
+        width:50%;
+        display:flex;
+
+        li{
+            padding-right: 1.25rem;
+            a{
+                color:#fff;
+            }
+        }
+    }
+
+    .disclaimer{
+        width:50%;
+        vertical-align: baseline;
+        text-align: right;
+    }
+}

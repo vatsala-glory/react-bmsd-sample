@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-coverage-standard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-coverage-standard">
+            <g>
+                <rect id="Button-Background" x="0" y="0" width="48" height="48"></rect>
+                <path d="M33,36 C39.627417,36 45,30.627417 45,24 C45,17.372583 39.627417,12 33,12 C26.372583,12 21,17.372583 21,24 C21,30.627417 26.372583,36 33,36 Z M33,39 C24.7157288,39 18,32.2842712 18,24 C18,15.7157288 24.7157288,9 33,9 C41.2842712,9 48,15.7157288 48,24 C48,32.2842712 41.2842712,39 33,39 Z" id="Oval" fill="#7F7F7F"></path>
+                <path d="M15,36 C21.627417,36 27,30.627417 27,24 C27,17.372583 21.627417,12 15,12 C8.372583,12 3,17.372583 3,24 C3,30.627417 8.372583,36 15,36 Z M15,39 C6.71572875,39 0,32.2842712 0,24 C0,15.7157288 6.71572875,9 15,9 C23.2842712,9 30,15.7157288 30,24 C30,32.2842712 23.2842712,39 15,39 Z" id="Oval" fill="#7F7F7F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

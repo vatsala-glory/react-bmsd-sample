@@ -1,0 +1,59 @@
+.bose-main{
+    display:flex;
+    background:white;
+
+    .bose-rightContainer{
+        background: url("../Images/empty-state-bg.jpg") center center no-repeat;
+        background-size:cover;
+    }
+    .bose-leftContainer{
+        background-color: #d9d9d9;
+        padding: 1.5em 1.5em;
+        .tangram-form{
+            color: black;
+            &-title{
+               
+                background-size: contain;
+                font-weight: normal;
+                font-stretch: normal;
+                line-height: 1;
+                letter-spacing: normal;
+                font-size: 1.5rem;
+                line-height: 1em;
+               
+            }
+
+            &-loudspeakerSelection{
+                &-value{
+                    align-items: flex-start;
+                    justify-content: space-between;
+                    display: flex;
+                    width: 100%;
+                    & select{
+                        box-sizing: border-box;
+                        height: 2.5em;
+                        font-size: .86rem;
+                        line-height: 1.4;
+                        padding: 0 4px;
+                        border: 1px solid #c5c5c5;
+                        width: 100%;
+                        color: #555;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+.scrollable {
+    height: calc(100vh - 108px - (19px + 2*20px));
+}
+.helpbox {
+    color:#0066a1;
+    font-size:.7em;
+}
+.subheading {
+    font-weight:700;
+    font-size:1rem;
+}
